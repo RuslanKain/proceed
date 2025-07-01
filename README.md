@@ -1,2 +1,2 @@
-# proceed
-Predictive Resource Characterizarion of Extreme Edge Devices
+# PROCEED
+Predictive Resource Characterization of Extreme Edge Devices
